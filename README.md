@@ -10,7 +10,7 @@ Saat menjalankan di **SQL Editor Supabase**, wajib mengikuti urutan ini:
 
 1. **create.sql** → untuk membuat tabel
 2. **insert.sql** → untuk memasukkan data
-3. **select.sql** → untuk menjawab soal/query analisis
+3. **select.sql** → beberapa query hands on
 
 ❗ **Jangan dibalik urutannya**
 
